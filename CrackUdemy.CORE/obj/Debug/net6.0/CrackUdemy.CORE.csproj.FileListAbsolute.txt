@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\bin\Debug\net6.0\CrackUdemy.CORE.deps.json
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\bin\Debug\net6.0\CrackUdemy.CORE.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\bin\Debug\net6.0\CrackUdemy.CORE.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\CrackUdemy.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\CrackUdemy.CORE.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\CrackUdemy.CORE.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\CrackUdemy.CORE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\CrackUdemy.CORE.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\refint\CrackUdemy.CORE.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\CrackUdemy.CORE.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.CORE\obj\Debug\net6.0\ref\CrackUdemy.CORE.dll

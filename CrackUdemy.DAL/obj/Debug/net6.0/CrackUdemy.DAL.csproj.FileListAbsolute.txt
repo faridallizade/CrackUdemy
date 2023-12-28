@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\bin\Debug\net6.0\CrackUdemy.DAL.deps.json
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\bin\Debug\net6.0\CrackUdemy.DAL.runtimeconfig.json
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\bin\Debug\net6.0\CrackUdemy.DAL.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\bin\Debug\net6.0\CrackUdemy.DAL.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\bin\Debug\net6.0\CrackUdemy.CORE.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\bin\Debug\net6.0\CrackUdemy.CORE.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\refint\CrackUdemy.DAL.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\CrackUdemy.DAL.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.DAL\obj\Debug\net6.0\ref\CrackUdemy.DAL.dll

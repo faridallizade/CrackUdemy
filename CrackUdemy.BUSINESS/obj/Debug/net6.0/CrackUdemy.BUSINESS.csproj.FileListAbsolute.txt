@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.BUSINESS.deps.json
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.BUSINESS.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.CORE.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.DAL.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.DAL.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\bin\Debug\net6.0\CrackUdemy.CORE.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.csproj.CopyComplete
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\refint\CrackUdemy.BUSINESS.dll
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\CrackUdemy.BUSINESS.pdb
+C:\Users\Asus\Desktop\C#\CrackUdemy\CrackUdemy.BUSINESS\obj\Debug\net6.0\ref\CrackUdemy.BUSINESS.dll

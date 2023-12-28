@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackUdemy.API", "CrackUdemy.API\CrackUdemy.API.csproj", "{90BFF428-ED15-4DC2-BF39-101D26F94520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackUdemy.DAL", "CrackUdemy.DAL\CrackUdemy.DAL.csproj", "{3267FEFD-19FA-4AE4-9CA9-B581EC8D885E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackUdemy.CORE", "CrackUdemy.CORE\CrackUdemy.CORE.csproj", "{FEF8ECD4-FD74-4BC2-88D4-13255AD5F107}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrackUdemy.BUSINESS", "CrackUdemy.BUSINESS\CrackUdemy.BUSINESS.csproj", "{7A006910-2CED-4908-8F83-C1C616BDC819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BFF428-ED15-4DC2-BF39-101D26F94520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BFF428-ED15-4DC2-BF39-101D26F94520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BFF428-ED15-4DC2-BF39-101D26F94520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BFF428-ED15-4DC2-BF39-101D26F94520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3267FEFD-19FA-4AE4-9CA9-B581EC8D885E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3267FEFD-19FA-4AE4-9CA9-B581EC8D885E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3267FEFD-19FA-4AE4-9CA9-B581EC8D885E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3267FEFD-19FA-4AE4-9CA9-B581EC8D885E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF8ECD4-FD74-4BC2-88D4-13255AD5F107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF8ECD4-FD74-4BC2-88D4-13255AD5F107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF8ECD4-FD74-4BC2-88D4-13255AD5F107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF8ECD4-FD74-4BC2-88D4-13255AD5F107}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A006910-2CED-4908-8F83-C1C616BDC819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A006910-2CED-4908-8F83-C1C616BDC819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A006910-2CED-4908-8F83-C1C616BDC819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A006910-2CED-4908-8F83-C1C616BDC819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0400B74-1D02-4399-83EA-8B04F63A15AE}
+	EndGlobalSection
+EndGlobal
